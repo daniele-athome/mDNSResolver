@@ -16,8 +16,8 @@ My home automation projects don't need discovery - I just wanted to be able to e
 Clone this code in to your [Arduino directory](https://www.arduino.cc/en/Guide/Libraries#toc5).
 
 ```bash
-cd ~/Arduino
-git clone git@github.com:madpilot/mDNSResolver.git
+cd ~/Arduino/libraries
+git clone https://github.com/daniele-athome/mDNSResolver.git
 ```
 
 Restart your IDE. You can now include
